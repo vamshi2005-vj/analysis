@@ -1,0 +1,19 @@
+streamlit_env/ 
+# Ignore virtual environments
+streamlit_env/
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment files
+.env
+
+# Ignore audio/output files
+*.mp3
+*.wav
+*.log
